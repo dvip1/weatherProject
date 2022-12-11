@@ -32,3 +32,5 @@ app.listen(port, () => {
 	console.log("port started at " + port);
 })
 
+//q: how to make a new branch using git bash
+//a: git checkout -b branch_nameI
